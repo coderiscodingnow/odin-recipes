@@ -1,0 +1,17 @@
+*{
+    background-color:coral
+}
+h1{
+    font-family: cursive;
+    text-align: center;
+    background-color: darkblue;
+    color:white;
+    font-weight: 300px;
+    
+}
+
+ul{
+    color:darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
